@@ -1,0 +1,10 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+@font-face {
+    font-family: 'Italiana';
+    src: url('~assets/fonts/italiana.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+  }
+  
