@@ -73,12 +73,12 @@ const open = ref(false);
           <LandingLink href="#" size="md" block>Sign up</LandingLink>
         </div>
       </nav>
-      <div>
+      <!-- <div>
         <div class="hidden lg:flex items-center gap-4">
           <a href="#">Log in</a>
           <LandingLink href="#" size="md">Sign up</LandingLink>
         </div>
-      </div>
+      </div> -->
     </header>
   </LandingContainer>
 </template>
