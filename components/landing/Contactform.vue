@@ -3,7 +3,6 @@ onMounted(() => {
   const form = document.getElementById("form");
   const result = document.getElementById("result");
 
-  
   form.addEventListener("submit", function (e) {
     e.preventDefault();
     form.classList.add("was-validated");
